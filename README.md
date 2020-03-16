@@ -1,3 +1,3 @@
-# recalbox-themes
+# emulationstation-themes
 
-Moved to https://gitlab.com/recalbox/recalbox-themes
+some themes for emulationstation
